@@ -1,0 +1,26 @@
+
+.image {
+  background-image: url("https://purplecowideas.files.wordpress.com/2012/09/roguemonkeyblog.jpg");
+  background-image: center;
+  background-repeat: no-repeat;
+  width: auto;
+  height: auto;
+  background-position: center;
+  }
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 300%;
+  text-shadow: 5px 5px 5px black, 8px 8px 8px yellow;
+  font-family: geneva;
+}
+
+.title {
+  margin-top: 60px;
+  font-size: 400%
+}
+
+.footer {
+  padding-top: 450px;
+}
